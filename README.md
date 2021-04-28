@@ -19,3 +19,19 @@ The major objective of this project is
 
 
 ---
+## ERD
+
+![ERD](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/DatabaseDiagram.png)
+
+---
+## Sequence Diagram
+
+![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%201.png)
+![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%202.png)
+![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%203.png)
+![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%204.png)
+---
+
+## References
+
+- https://stackoverflow.com/
