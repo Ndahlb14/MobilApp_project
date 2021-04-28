@@ -69,7 +69,12 @@ The major objective of this project is
 ![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%203.png)
 ![Sequence Diagram](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/sequence%204.png)
 ---
+---
+## Protptype
 
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/Screen%201%401x.png)
+
+---
 ## References
 
 - https://stackoverflow.com/
