@@ -73,6 +73,16 @@ The major objective of this project is
 ## Protptype
 
 ![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/Screen%201%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/login%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/register%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/Home%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/navigation.PNG)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/Patient%20list%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/patient%20detail%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/appointment%401x.png)
+![prototype](https://github.com/Hafiz24498/MobilApp_project/blob/main/imgs/medicine%401x.png)
+
+
 
 ---
 ## References
